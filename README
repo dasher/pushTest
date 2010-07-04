@@ -1,6 +1,6 @@
 Appcelerator Titanium testHarness for the UrbanAirship Project at http://github.com/dasher/titanium_mobile/tree/integration-airship
 
-
+Note - this testHarness has preliminary support for Notifications to the application from the Android Notification bar.
 ----------------------------------
 Stuff our legal folk make us say:
 
